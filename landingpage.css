@@ -37,7 +37,7 @@ h1 {
 .nav {
     height: 60vh;
     /* Position on the right */
-
+    position: absolute;
     /* Use flex properties to space out links */
 
     /* Add fade-in animation after delay */
@@ -55,3 +55,4 @@ h1 {
 .nav a:hover {
     /* Add nav link hover effect */
 }
+@keyframes
